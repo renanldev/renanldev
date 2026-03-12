@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 🧑‍💻 Renan Souza
 
 **`Desenvolvedora FullStack`**
 
