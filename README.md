@@ -1,4 +1,4 @@
-# 🧑‍💻 Renan Souza
+# 👨‍💻 Renan Souza
 
 **`Web Developer`**
 
