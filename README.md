@@ -1,6 +1,6 @@
 # 🧑‍💻 Renan Souza
 
-**`Desenvolvedora FullStack`**
+**`Web Developer`**
 
 Me chamo Renan e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou focado em desenvolvimento Front-End, estudando e criando projetos com HTML, CSS e JavaScript. Busco evoluir constantemente minhas habilidades, transformando aprendizado em projetos práticos e construindo uma base sólida na área de tecnologia.
 
