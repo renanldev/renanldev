@@ -2,11 +2,13 @@
 
 **`Web Developer`**
 
-Me chamo Renan e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou focado em desenvolvimento Front-End, estudando e criando projetos com HTML, CSS e JavaScript. Busco evoluir constantemente minhas habilidades, transformando aprendizado em projetos práticos e construindo uma base sólida na área de tecnologia.
+### 👨‍💻 About Me
+
+Analysis and Systems Development student passionate about technology and software development. I'm currently focused on Front-End development, studying and building projects with HTML, CSS and JavaScript. I like learning through practice and continuously improving my skills by turning what I learn into real projects. My goal is to grow as a developer while building a strong foundation in the technology field.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -60,7 +62,7 @@ Me chamo Renan e sou estudante de Análise e Desenvolvimento de Sistemas. Atualm
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
