@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-Analysis and Systems Development student passionate about technology and software development. I'm currently focused on Front-End development, studying and building projects with HTML, CSS and JavaScript. I like learning through practice and continuously improving my skills by turning what I learn into real projects. My goal is to grow as a developer while building a strong foundation in the technology field.
+System Analysis and Development student passionate about technology and software development. I'm currently focused on Front-End development, studying and building projects with HTML, CSS and JavaScript. I like learning through practice and continuously improving my skills by turning what I learn into real projects. My goal is to grow as a developer while building a strong foundation in the technology field.
 
 ---
 
