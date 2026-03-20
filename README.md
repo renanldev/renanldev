@@ -70,7 +70,7 @@ System Analysis and Development student passionate about technology and software
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudiocode/vscode-original.svg" 
 />
 
 <br/>
