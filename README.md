@@ -66,11 +66,11 @@ System Analysis and Development student passionate about technology and software
 />
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="VSCode" 
+    title="VSCode"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudiocode/vscode-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
 <br/>
