@@ -1,4 +1,4 @@
-# Wave.gif	{gifs/wave}Hello, World!
+# Wave.gif{gifs/wave} Hello, World!
 
 ### 👨‍💻 About Me
 
