@@ -81,7 +81,13 @@ System Analysis and Development student passionate about technology and software
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=renanldev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanldev&layout=compact&theme=tokyonight&hide_border=true&locale=en" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanldev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&v=99" height="150" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanldev&layout=compact&theme=tokyonight&hide_border=true&locale=en&v=99" height="150" />
+    </td>
+  </tr>
+</table>
